@@ -1,0 +1,59 @@
+# llm development files
+CLAUDE.md
+
+# byte-compiled / optimized / dll files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# c extensions
+*.so
+
+# distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# pytype static type analyzer
+.pytype/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
