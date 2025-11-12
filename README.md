@@ -14,7 +14,7 @@ While excellent toolboxes exist for rigid-link robots, open-source simulation to
 
 This project is in early development. Initial implementation focuses on the Constant Curvature (CC) kinematic model.
 
-## Planned Features
+## Planned/Desired Features
 
 - **Kinematic Models**
   - Constant curvature (initial implementation)
@@ -23,14 +23,19 @@ This project is in early development. Initial implementation focuses on the Cons
 
 - **Analysis Tools**
   - Forward kinematics
-  - Inverse kinematics
   - Jacobian computation
   - Workspace analysis
+  - State estimation (shape, loads)
 
 - **Visualization**
   - 3D robot configuration plotting
   - Trajectory visualization
   - Interactive manipulation
+ 
+- **Planning**
+  - Inverse kinematics
+  - Motion planning
+  - Obstacle detection
 
 ## Installation
 
