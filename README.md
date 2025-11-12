@@ -1,6 +1,6 @@
 # Continuum Robotics Toolbox
 
-A Python library for modeling, simulation, and control of continuum robots.
+(wip) A Python library for modeling, simulation, and control of continuum robots.
 
 ## Overview
 
