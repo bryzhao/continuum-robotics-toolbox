@@ -4,16 +4,11 @@ A Python library for modeling, simulation, and control of continuum robots.
 
 ## Overview
 
-This toolbox provides a comprehensive framework for continuum robotics research and education, inspired by Peter Corke's Robotics Toolbox for MATLAB. Unlike traditional rigid-link manipulators, continuum robots feature continuous flexible structures that can navigate complex environments and interact safely with delicate objects.
+This toolbox provides a comprehensive framework for continuum robotics research and education, inspired by Peter Corke's Robotics Toolbox for MATLAB. Unlike traditional rigid-link manipulators, continuum robots feature continuous flexible structures that can navigate complex environments and interact safely with objects in their environment.
 
 ## Motivation
 
-While excellent toolboxes exist for rigid-link robots, open-source simulation tools for continuum robotics remain scarce. This project aims to fill that gap by providing:
-
-- Accessible modeling frameworks for researchers and students
-- Extensible architecture supporting multiple kinematic models
-- Educational resources for learning continuum robotics concepts
-- Foundation for prototyping control algorithms
+While excellent toolboxes exist for rigid-link robots, open-source simulation tools for continuum robotics remain scarce. This project aims to fill that gap by (eventually) providing accessible modeling frameworks for researchers and students, extensible architecture supporting multiple kinematic models, educational resources for learning continuum robotics concepts, and a foundation for prototyping control algorithms.
 
 ## Current Status
 
